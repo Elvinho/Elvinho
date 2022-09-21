@@ -10,8 +10,10 @@ Here are some ideas to get you started:
 ## Hello!!
 ### I'm Elvison Victor
 <div align='center'>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Elvinho)](https://github.com/Elvinho)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvison-victor-a487a1106/)](https://www.linkedin.com/in/elvison-victor-a487a1106/)
+  How to reach me :
+  
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Elvinho)]       (https://github.com/Elvinho)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvison-victor-a487a1106/)](https://www.linkedin.com/in/elvison-victor-a487a1106/)
 </div>
 ### About me
 I'm a {front-end} developer 
