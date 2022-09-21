@@ -30,7 +30,7 @@ I'm a {front-end} developer
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-00000F?&style=for-the-badge&logo=mysql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-005C84?&style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
