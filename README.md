@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvison-victor-a487a1106/)](https://www.linkedin.com/in/elvison-victor-a487a1106/)
 
 ### About me
-I'm a {front-end} developer
+I'm a {front-end} developer :pizza
