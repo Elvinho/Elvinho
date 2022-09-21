@@ -29,6 +29,7 @@ I'm a {front-end} developer
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-00000F?&style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -37,9 +38,11 @@ I'm a {front-end} developer
 ![Fedora](https://img.shields.io/badge/Fedora-20232A?style=for-the-badge&logo=fedora&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
+
+jQuery
 # Github Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=Elvinho&theme=dracula" alt="Elvinho" />
+<img src="https://github-readm-stats.vercel.appapi?username={Elvinho}&theme=blue-green/" alt="Elvinho" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elvinho&theme=dracula" alt="Elvinho" />
 
 
