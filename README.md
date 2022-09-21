@@ -42,7 +42,7 @@ I'm a {front-end} developer
 jQuery
 # Github Stats
 
-<img src="https://github-readm-stats.vercel.app/api?username={Elvinho}&theme=blue-green/" alt="Elvinho" />
+<img src="https://github-readme-stats.vercel.app/api?username={Elvinho}&theme=blue-green/" alt="Elvinho" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elvinho&theme=dracula" alt="Elvinho" />
 
 
