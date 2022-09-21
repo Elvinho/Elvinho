@@ -35,3 +35,5 @@ I'm a {front-end} developer
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-20232A?style=for-the-badge&logo=fedora&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
+![Snake](https://github.com/acferM/acferM/blob/output/github-snake.svg)
