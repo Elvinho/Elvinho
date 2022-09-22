@@ -39,6 +39,7 @@ I'm a {front-end} developer
 ![Fedora](https://img.shields.io/badge/Fedora-20232A?style=for-the-badge&logo=fedora&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
+[![Elvinho's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvinho&theme=blue-green)](https://github.com/Elvinho/github-readme-stats)
 
 
 # Github Stats
