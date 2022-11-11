@@ -46,6 +46,3 @@ I'm a {front-end} developer
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvinho&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elvinho&theme=dracula" alt="Elvinho" />
-
-
-![Snake](https://github.com/Elvinho/acferM/blob/output/github-snake.svg)
