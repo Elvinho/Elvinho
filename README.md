@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 
 ## About me
-I'm a {front-end} developer 
+I'm a {front-end} developer at Liferay
 
 ### Technologies I work:
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,7 +39,4 @@ I'm a {front-end} developer
 ![Fedora](https://img.shields.io/badge/Fedora-20232A?style=for-the-badge&logo=fedora&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-[![Elvinho's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvinho&theme=blue-green)](https://github.com/Elvinho/github-readme-stats)
 
-# Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elvinho&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
