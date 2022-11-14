@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## Hello!!
 ### I'm Elvison Victor
-<div align='center'>
+<div align='left'>
   How to find me :
   
   ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Elvinho)
