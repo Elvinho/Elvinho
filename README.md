@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 <div align='left'>
   How to find me :
   
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/elvisonvictorfc@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvison-victor-a487a1106/)](https://www.linkedin.com/in/elvison-victor-a487a1106/)
 </div>
 
