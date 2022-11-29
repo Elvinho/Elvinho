@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 -->
 
-## About me
 I'm a {front-end} developer at Liferay
 <div align='left'>
   How to find me :
