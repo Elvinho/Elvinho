@@ -44,7 +44,3 @@ I'm a {front-end} developer at Liferay
 ![Windows](https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows&logoColor=white)
 
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
