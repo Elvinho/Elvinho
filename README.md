@@ -7,16 +7,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 -->
 
-## Hello!!
-### I'm Elvison Victor
+## About me
+I'm a {front-end} developer at Liferay
 <div align='left'>
   How to find me :
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvison-victor-a487a1106/)](https://www.linkedin.com/in/elvison-victor-a487a1106/)
 </div>
-
-## About me
-I'm a {front-end} developer at Liferay
 
 ### Technologies I work:
 
