@@ -28,7 +28,7 @@ I'm a {front-end} developer at Liferay!
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=black)
 ![Php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-005C84?&style=for-the-badge&logo=mysql&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-005C84?&style=for-the-badge&logo=java&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-777BB4?&style=for-the-badge&logo=java&logoColor=white)
 
 ##### Auxiliary Technologies:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
