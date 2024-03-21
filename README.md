@@ -22,6 +22,7 @@ I'm a {front-end} Engineer at Liferay!
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Liferay](https://img.shields.io/badge/LIFERAY-1572B6?&style=for-the-badge&logo=liferay&logoColor=white)
 
 #### Back End:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
