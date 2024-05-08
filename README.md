@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 -->
 
-I'm a {Software} Engineer at Liferay!
+I'm a {Software} Engineer
+JavaScript | PHP | React | Java
 <div align='left'>
   How to find me :
   
