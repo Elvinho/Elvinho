@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a {Software} Engineer <br />
-JavaScript | PHP | React | Java
+
 <div align='left'>
   How to find me :
   
